@@ -1,0 +1,6 @@
+{
+  "name": "Digital Time Capsule",
+  "description": "Store and lock digital memories (messages, notes, and drawings) that can only be opened after a specific future date.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
